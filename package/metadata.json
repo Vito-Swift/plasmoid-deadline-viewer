@@ -1,0 +1,14 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "vitowu.private2022@gmail.com",
+                "Name": "vitowu"
+            }
+        ],
+        "Category": "System Utility",
+        "Description": "A widget to display important todos and deadlines",
+        "Icon": "note",
+
+    }
+}
